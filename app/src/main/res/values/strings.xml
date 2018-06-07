@@ -1,0 +1,95 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">MCF UCT</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_admin">Administration and coordination</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_leadership">Leadership and Mentorship</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_finance">Finance</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_internship">Career and Internship</string>
+    <string name="Application">Apply to be A scholar</string>
+
+    <!-- Category name for the vostring name="category_internship">Careers and Internship</string>cabulary words for family members [CHAR LIMIT=200] -->
+    <string name="finance">This docket is headed and led by Riyaadh Fakier.\n
+        \n
+The following is the most vital information one should know about Mastercard Foundation;\n
+\n
+1.	Every New scholar gets R2000 for settlement.
+2.	Each scholar is entitled to R1000 as stipend.\n
+3.	Every scholar is entitled to R4500 for books and stationery. It is paid per semester.\n
+4.	R2000 is meal allowance which is only entitled to scholars in the self-catering residences.\n
+        \n
+5.	Postgraduates receive their stipends as Lumpsum every semester. The lump sum includes all finances for the five months of the semester. Undergraduates receive their stipends on 26th each month.\n
+        6. Postgraduate scholars are advised to see Riyaadh to discuss on their research allowances which is between R40K-R50K.\n
+        \n
+
+
+For any financial queries kindly reach out to:
+Email:  riyaadh.fakier@uct.ac.za
+Phone: +27 (0) 650 5095 Fax: +27 21 650 5771
+
+
+
+ </string>
+    <string name="administration">The MCF Program at UCT is under the International Academic Programs Office(IAPO).\n
+       \n
+        The program is headed by the Manager of African Partnerships and Study Programs in IAPO, Ms. Carol Ojwang.\n
+        \n
+        She is the program manager who oversee the program is run efficiently.\n
+\n
+The Program coordinator is Xolani Mkoba. His roles in the program includes:\n
+        \n
+1.	Together with Manager: African Partnerships and Study Programs, develop implement and monitor strategic and operational plans to ensure that the MCF Program objectives and terms of the grant agreement are met.\n
+2.	 Day-to-day operational management of the Program, including the management of two direct reports.\n
+        \n
+
+        For any administration queries kindly reach out to:
+        Email:  xolani.mkoba@uct.ac.za        or  carol.ojwang@uct.ac.za\n
+        Xolani Phone: +27 21 650 3601 Fax: +27 21 650 5771
+
+
+
+
+</string>
+    <string name="Leadership">The leadership and mentorship docket is headed by Insaaf Isaacs.\n
+This docket also involves mentorship of the scholars and giving them support throughout their studies in UCT.\n
+        \n
+Every scholar is assigned to his/her campus life mentor. The mentee(scholar) is expected to meet with the mentor once per two weeks.The mentors are supportive to scholar’s progress in social, academic and leadership activities.\n
+        \n
+Mainly to new scholars, the mentors assist the scholars to settle easily in the campus.\n
+The docket also works closely with the scholar’s council to make sure the scholar’s privileges are taken care of.\n
+        \n
+        For any mentorship queries or query on your campus mentor kindly reach out to:
+        Email:  insaaf.isaacs@uct.ac.za\n
+        Phone: +27 (0) 650 5923 Fax: +27 21 650 5771
+</string>
+    <string name="Internship">The docket of careers and internship is headed by Jean Alfred.\n
+        \n
+Jean assist scholars in:\n
+1.	CV review and internship applications.\n
+2.	Finding internship in their home countries or South Africa.\n
+3.	She runs various careers and entrepreneurship events where each scholar is expected to attend and participate.\n
+
+4.	She is also responsible of scholar’s internship expenses. This includes flights to and from place of the internship and scholar’s internship allowance.\n
+Undergraduate students are expected to undertake their internships in the end of their second-year studies for a period of four to six weeks.\n
+
+Postgraduates students are advised to see her early when they join the program to plan for the efficient time for them to do their internship. This is because of the difference number of years of postgraduate’s studies and nature.\n
+
+
+Jean is in Upper Campus (Careers Service) office on Monday, Wednesday and Friday.\n
+Tuesdays and Thursdays, she is in Middle Campus, Masingene Building.\n
+
+</string>
+
+
+
+</resources>

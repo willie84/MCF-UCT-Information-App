@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF80AB"
+
+
+    tools:context="com.example.android.mcfuct.FinanceActivity">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:paddingTop="20dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+
+        android:id="@+id/LinearLayout"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical"
+        tools:context="com.example.android.mcfuct.FinanceActivity">
+
+
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/finance_TextView"
+                android:text="@string/finance"
+
+
+
+            />
+        </LinearLayout>
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_below="@id/LinearLayout"
+        android:id="@+id/scroll_view"
+        android:layout_height="wrap_content">
+        <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="send an email"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:id="@+id/send_email"
+
+        android:layout_below="@id/LinearLayout"
+        android:onClick="sendEmail"/></ScrollView>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/scroll_view"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+
+            android:text="Call Riyaadh"
+            android:onClick="callStaff"/>
+
+
+
+
+
+
+</RelativeLayout>

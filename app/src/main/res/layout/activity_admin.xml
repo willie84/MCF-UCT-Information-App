@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="20dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:background="#FF80AB"
+
+    tools:context="com.example.android.mcfuct.AdminActivity">
+
+
+
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:id="@+id/scroll_view"
+            android:layout_height="wrap_content">
+
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/admin_TextView"
+                android:text="@string/administration"
+
+
+
+                /></ScrollView>
+
+
+    <Button
+        android:id="@+id/send_email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/scroll_view"
+        android:onClick="sendEmail"
+        android:paddingRight="20dp"
+        android:paddingTop="20dp"
+        android:text="send an email" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/scroll_view"
+        android:layout_marginLeft="22dp"
+        android:layout_marginStart="22dp"
+        android:layout_toEndOf="@+id/send_email"
+        android:layout_toRightOf="@+id/send_email"
+        android:paddingBottom="20dp"
+        android:paddingRight="20dp"
+        android:onClick="callStaff"
+        android:text="call Xolani" />
+
+
+
+
+
+
+</RelativeLayout>
